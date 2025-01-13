@@ -47,7 +47,11 @@ These instructions will help you set up the project on your local machine for de
     python main.py
     ```
 
-2. Follow the on-screen instructions to use the various automation features.
+## Features
+1. can generate fake location and random selection from suggestions
+2. can generate random dates and route to the refine page
+3. from refine page select 10 tiles and traverse them to get hybrid page
+4. from hybrid page checks property avaibility
 
 ## Contributing
 
